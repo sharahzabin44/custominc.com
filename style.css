@@ -769,19 +769,19 @@
     height: 320px;
 }
 .bradcaump-title {
-    color: #343434;
+    color: #fff;
     font-size: 36px;
     font-weight: 400;
     line-height: 40px;
     text-transform: capitalize;
 }
 .breadcrumb-item {
-    color: #343434;
+    color: #fff;
     font-size: 18px;
     text-transform: capitalize;
 }
 .breadcrumb-item.active {
-    color: #343434;
+    color: #fff;
     font-size: 18px;
     text-transform: capitalize;
 }
